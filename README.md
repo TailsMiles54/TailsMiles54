@@ -7,3 +7,4 @@
 
 >>💼Работаю в замечательной компании MaxFun Games уже 2 года.💼
 ------
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TailsMiles54)](https://github.com/anuraghazra/github-readme-stats)
