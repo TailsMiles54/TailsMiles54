@@ -15,8 +15,8 @@
 
 ------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TailsMiles54&layout=compact&theme=dark&show_icons=true&hide=javascript,html,hlsl,shaderlab,c,c++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TailsMiles54&layout=compact&theme=dark&show_icons=true&hide=javascript,html,hlsl,shaderlab,c,c++)]
 
 ------
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TailsMiles54&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TailsMiles54&theme=dark)]
