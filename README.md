@@ -19,4 +19,4 @@
 
 ------
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TailsMiles54&theme=dark)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TailsMiles54&theme=dark&v=2)
