@@ -17,7 +17,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TailsMiles54&layout=compact&theme=dark&show_icons=true&hide=javascript,html,hlsl,shaderlab,c,c++)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TailsMiles54&v=2&theme=dark&hide_title=true&layout=compact&hide_progress=true)
-
 ------
 
