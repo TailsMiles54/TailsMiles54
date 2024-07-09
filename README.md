@@ -1,13 +1,5 @@
 # Brusko Igor
-## Middle Unity Developer
-
->👻Привет! Меня зовут Игорь и мне 26 лет!👻
-
->🐉Я разработчик игр и не только🐉
-
->🖥Я работаю с Unity, C# и немного учу Kotlin и GO.🖥
-
->💼Работаю в компании MaxFun Games уже почти 3 года.💼
+## Unity Developer
 
 ------
 
